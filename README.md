@@ -13,8 +13,9 @@ The purposes of this analysis is to conduct analysis on the Amazon Vine program.
 ![picture alt](https://github.com/hushi-aujla/Amazon_Vine_Analysis/blob/main/images/fivestar_reviews.png)
 * Of the 15,711 five star review, 48 were paid vs 15,663 unpaid reviews
 ----
-[picture alt](https://github.com/hushi-aujla/Amazon_Vine_Analysis/blob/main/images/review_percents.png)
+![picture alt](https://github.com/hushi-aujla/Amazon_Vine_Analysis/blob/main/images/review_percents.png)
 * 51.064%  of paid reviews gave a five star review
 * 38.702% of unpaid reviews gave a five star review
 
 ## Summary
+Based on the number we could say that there is potentially some bias towards higher review scores for paid Amazon reviews, as the percentage of five star paid reviews was much higher than the percent of five star unpaid reviews (51.064% vs 38.702%). To further analyze this we could collect the reviews for other star rating to see if there is a bias to higher rating for paid reviews. We could also analyze other Amazon review datasets to see if this bias is similar for other product reviews.
